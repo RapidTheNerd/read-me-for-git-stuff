@@ -1,9 +1,9 @@
 # MY GIT AND STUFF
 Generally the stuff on public is just random projects i have made because I'm bored
 My main projects are kept under private repos due to following reasons
- They were paid projects
- Software i don't want the code being leaked
- Stuff i generally want private
+ || They were paid projects
+ || Software i don't want the code being leaked
+ || Stuff i generally want private
 
 Majority of the projects i work on are uploaded to git
 
