@@ -10,6 +10,9 @@ Majority of the projects i work on are uploaded to git
 My main languages are C# and Java anything like Python, Node/JavaScript will probably be sloppy
 I highly recomend you don't steal any of it because it will probably break your server.
 
+# My weird commits
+Not all of my commits are legit lol. I got bored one day and found a picture of someone who had a made their contributions look like something on the lines of "I <3 GITHUB" it looked really cool and i wanted to challenge myself to do the same or something similar. So i did, and it took a bit of a wrong turn so yeah. 
+
 # Using the stuff here
 
 If it's public feel free to do what the hell you like with it, bare in mind I wont provide support for it.
